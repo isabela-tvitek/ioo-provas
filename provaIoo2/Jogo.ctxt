@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=
+comment1.target=Jogo()
+comment10.params=
+comment10.target=void\ reiniciarJogo()
+comment11.params=
+comment11.target=java.lang.String\ getClassificacao()
+comment2.params=
+comment2.target=java.lang.String\ getPrimeiroColocado()
+comment3.params=
+comment3.target=java.lang.String\ getSegundoColocado()
+comment4.params=
+comment4.target=java.lang.String\ getTerceiroColocado()
+comment5.params=primeiroColocado
+comment5.target=void\ setPrimeiroColocado(Jogador)
+comment6.params=segundoColocado
+comment6.target=void\ setSegundoColocado(Jogador)
+comment7.params=terceiroColocado
+comment7.target=void\ setTerceiroColocado(Jogador)
+comment8.params=numero1\ numero2\ numero3
+comment8.target=void\ rodada(int,\ int,\ int)
+comment9.params=
+comment9.target=boolean\ isRodadaCancelada()
+numComments=12

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Jogador
+comment1.params=nome
+comment1.target=Jogador(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=int\ getNumeroDaRodada()
+comment5.params=numero
+comment5.target=void\ setNumeroDaRodada(int)
+comment6.params=
+comment6.target=int\ getEscore()
+comment7.params=pontos
+comment7.target=void\ incrementarEscore(int)
+numComments=8
